@@ -1,14 +1,15 @@
 body {
-    font-family: 'Open Sans Condensed';
-    background-color: white;
-    padding: 20px 80px ;
-    /* color: white */
+	font-family: 'Open Sans Condensed';
+	background-color: white;
+	padding: 20px 80px;
+	/* color: white */
 }
 
-a{ 
-    text-decoration: none;
-    color: black;
+a {
+	text-decoration: none;
+	color: black;
 }
 
-
-
+* {
+	box-sizing: border-box;
+}
