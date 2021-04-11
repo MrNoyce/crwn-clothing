@@ -13,8 +13,8 @@ const config = {
 };
 
 export const createUserProfileDocument = async (userAuth, additionalData) => {
-    console.log('add data:', additionalData);
-    console.log('userAuth', userAuth);
+    // console.log('add data:', additionalData);
+    // console.log('userAuth', userAuth);
 
     if (!userAuth) return;
 
